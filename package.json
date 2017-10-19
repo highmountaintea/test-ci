@@ -1,0 +1,28 @@
+{
+  "name": "test-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnfliu818/test-ci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnfliu818/test-ci/issues"
+  },
+  "homepage": "https://github.com/johnfliu818/test-ci#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "jasmine": "^2.8.0",
+    "mocha": "^4.0.1",
+    "tape": "^4.8.0"
+  }
+}
